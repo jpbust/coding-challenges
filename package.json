@@ -1,0 +1,22 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "toy problems, algorithms practice, etc",
+  "main": "09-14-2021.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbust/coding-challenges.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Juna Pablo Bustamante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbust/coding-challenges/issues"
+  },
+  "homepage": "https://github.com/jpbust/coding-challenges#readme"
+}
